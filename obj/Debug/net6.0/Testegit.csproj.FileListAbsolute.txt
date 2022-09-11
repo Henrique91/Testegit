@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\bin\Debug\net6.0\Testegit.exe
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\bin\Debug\net6.0\Testegit.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\bin\Debug\net6.0\Testegit.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\bin\Debug\net6.0\Testegit.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\bin\Debug\net6.0\Testegit.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.csproj.AssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\refint\Testegit.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\Testegit.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Testegit\obj\Debug\net6.0\ref\Testegit.dll
